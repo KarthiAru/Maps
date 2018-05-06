@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 384, "properties": { "state": "Daman and Diu", "district": "Daman", "taluka": "Daman" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 72.860138, 20.470961000000102 ], [ 72.838181000000134, 20.437259 ], [ 72.845078, 20.40712 ], [ 72.83133, 20.368739 ], [ 72.821532, 20.37108 ], [ 72.828477000000134, 20.433749 ], [ 72.860138, 20.470961000000102 ] ] ] } }
+]
+}
